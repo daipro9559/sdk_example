@@ -1,4 +1,4 @@
-package com.dainv.sdkexample
+package com.example.mylibrary
 
 import android.content.Context
 
